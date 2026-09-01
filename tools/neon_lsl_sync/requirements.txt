@@ -1,0 +1,3 @@
+pupil-labs-realtime-api>=1.6
+pylsl>=1.16
+pyinstaller>=6.0
